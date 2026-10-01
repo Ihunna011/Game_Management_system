@@ -1,0 +1,13 @@
+GameID,Name,Platform,Genre,Purchase_Date
+elr01,Elden Ring,X-box,Fantasy,2025-03-04
+ovw22,Overwatch 2,Playstation,Action,2023-10-18
+mak03,Mario Kart,Nintendo,Racing,2019-12-22
+hai04,Halo Infinite,X-box,FPS,2024-08-07
+nba25,NBA 2k25,Playstation,Sports,2025-06-28
+jud26,Just Dance,Nintendo,Sports,2025-11-03
+stf07,Starfield,PC,RPG,2022-09-09
+fzh58,Forza Horizon 5,X-box,Racing,2024-12-01
+bag39,Baldur's Gate 3,PC,RPG,2023-04-30
+min10,Minecraft,Playstation,Sandbox,2020-07-14
+
+

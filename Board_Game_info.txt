@@ -1,0 +1,13 @@
+GameID,Name,No.Players,Genre,Purchase_Date
+ctn01,Catan,3-4,strategy,2022-10-03
+mpl02,Monopoly,2-6,Economic,2024-09-06
+chs03,Chess,2,Strategy,2018-01-17
+bts04,Battleship,2,strategy,2024-08-08
+azl05,Azul,2-4,Strategy,2020-03-20
+srb06,Scrabble,2-4,Word,2025-04-16
+pct07,Pictionary,2-16,Drawing,2022-11-28
+snl08,Snakes and Ladders,2-4,Luck,2025-10-31
+hnc09,Hues and Cues,3-10,Party,2023-06-05
+clu10,Cluedo,2-6,Strategy,2024-03-30
+
+
